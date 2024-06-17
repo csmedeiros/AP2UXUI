@@ -91,7 +91,7 @@
             margin-left: 25px;
             transition: all 0.3s linear;
             &:hover{
-                color: $yellow;
+                color: rgba($color: #ff0505, $alpha: 1.0);
             }
         }
     }
